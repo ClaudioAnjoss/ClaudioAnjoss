@@ -1,8 +1,23 @@
-## <h1 align="center">Oiii eu sou Claudio Anjos, programador Full-Stack!</h1>
+## <h1 align="center">Olá, seja bem-vindo(a) ao meu GITHUB!</h1>
+<div align="center">
+  Me chamo <strong>Claudio Anjos</strong> sou estudante de análise e desenvolvimento do sistema.
+  
+  Meu foco nos estudos e ser tornar desenvolvedor Full-Stack.
+
+  Tenho experiencia com: <strong>HTML</strong>, <strong>CSS, Bootstrap, JavaScript, ECMAScript 6, PHP, POO, Ajax, Git, GitHub, Linguagem SQL, MySQL, JQuery, MVC, Composer, Slim Framework, Sass, WordPress</strong> e atualmente estou estudando <strong>React JS</strong>.  
+
+Convido você a dar uma olhada no meu repositório, onde guardo todos os meus estudos e minha estrutura de conhecimento .       
+
+Atualmente não tenho experiência na área, mas estou procurando minha primeira oportunidade.
+  
+  ##
+  
+  
+</div>
 <div align="center">
   <a href="https://github.com/ClaudioAnjoss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioAnjoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAnjoss&layout=compact&langs_count=7&theme=dark"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaudioAnjoss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudioAnjoss&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Claudio-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
