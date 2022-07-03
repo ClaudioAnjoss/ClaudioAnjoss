@@ -1,10 +1,8 @@
 ## <h1 align="center">Olá, seja bem-vindo(a) ao meu GITHUB!</h1>
 <div align="center">
-  Me chamo <strong>Claudio Anjos</strong> sou estudante de análise e desenvolvimento do sistema.
-  
-  Meu foco nos estudos e ser tornar desenvolvedor Full-Stack.
+  Olá, bem vindo(a) ao meu perfil me chamo Claudio, sou estudante de análise e desenvolvimento do sistema através da faculdade Cruzeiro do Sul.
 
-  Tenho experiencia com: <strong>HTML</strong>, <strong>CSS, Bootstrap, JavaScript, ECMAScript 6, PHP, POO, Ajax, Git, GitHub, Linguagem SQL, MySQL, JQuery, MVC, Composer, Slim Framework, Sass, WordPress</strong> e atualmente estou estudando <strong>React JS</strong>.  
+Tenho experiência com: JavaScript, ECMAScript 6,7,8, TypeScript, PHP, OO, Ajax, Git, GitHub, Linguagem SQL, MySQL, JQuery, MVC Composer, Slim Framework, Sass, WordPress e atualmente estou estudando React JS e APIs REST. 
 
 Convido você a dar uma olhada no meu repositório, onde guardo todos os meus estudos e minha estrutura de conhecimento .       
 
@@ -40,7 +38,7 @@ Atualmente não tenho experiência na área, mas estou procurando minha primeira
   <a href="mailto:claudio.anjosss2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/claudioanjoss/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/claudio.anjoss/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+ 	
   
    
  
